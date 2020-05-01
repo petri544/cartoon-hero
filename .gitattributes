@@ -1,2 +1,16 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+DOCTYPE html>
+<html>
+<head>
+	<title>Test page</title>
+</head>
+<body>
+	<h1>Hello. This is my website.</h1>
+	<p>I like all kinds of <b>movies<b></b>,what about you?</p>
+	<a href="https://google.com" target="_blank" title="Let's go to google">Clickhere!It's a link</a>
+	<img src=https://image.shutterstock.com/image-photo/portrait-surprised-cat-scottish-straight-260nw-499196506.jpg>
+	<p>The cat is called:<br>
+	Kitty</p>
+</body>
+<html>
